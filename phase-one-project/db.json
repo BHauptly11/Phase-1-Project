@@ -1,0 +1,169 @@
+{
+    "jokes": [
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do python programmers wear glasses?",
+        "delivery": "Because they can't C.",
+        "id": 1,
+        "rating": 0
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why was the mushroom always invited to parties?",
+        "delivery": "Cause he's a fungi.",
+        "id": 2,
+        "rating": 0
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I asked my wife if I was the only one she's been with.",
+        "delivery": "She said, \"Yes, the others were at least sevens or eights.\"",
+        "id": 3,
+        "rating": 0
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the functional programmer get thrown out of school?",
+        "delivery": "Because he refused to take classes.",
+        "id": 4,
+        "rating": 0
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+        "delivery": "I told her, \"We already have food in the house\".",
+        "id": 5,
+        "rating": 0
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between a hot potato and a flying pig?",
+        "delivery": "One's a heated yam, the other's a yeeted ham.",
+        "id": 6,
+        "rating": 0
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why did the banana go see a doctor?",
+        "delivery": "Because it wasn't peeling well.",
+        "id": 7,
+        "rating": 0
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the Python programmer not respond to the foreign mails he got?",
+        "delivery": "Because his interpreter was busy collecting garbage.",
+        "id": 8,
+        "rating": 0
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "What does a turkey dress up as for Halloween?",
+        "delivery": "A gobblin'!",
+        "id": 9,
+        "rating": 0
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How did you make your friend rage?",
+        "delivery": "I implemented a greek question mark in his JavaScript code.",
+        "id": 10,
+        "rating": 0
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Did you hear about the claustrophobic astronaut?",
+        "delivery": "He just needed a little space.",
+        "id": 11,
+        "rating": 0
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why do cows wear bells?",
+        "delivery": "Because their horns don't work!",
+        "id": 12,
+        "rating": 0
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What are bits?",
+        "delivery": "Tiny things left when you drop your computer down the stairs.",
+        "id": 13,
+        "rating": 0
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "What's it like to be kissed by a vampire?",
+        "delivery": "It's a pain in the neck.",
+        "id": 14,
+        "rating": 0
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Did you hear about the cheese factory that exploded in France?",
+        "delivery": "There was nothing but de brie.",
+        "id": 15,
+        "rating": 0
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between England and a tea bag?",
+        "delivery": "The tea bag stays in the cup longer.",
+        "id": 16,
+        "rating": 0
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "How do snails fight?",
+        "delivery": "They slug it out.",
+        "id": 17,
+        "rating": 0
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "Where does a ghost go on vacation?",
+        "delivery": "Mali-boo.",
+        "id": 18,
+        "rating": 0
+    },
+    {
+        "category": "Spooky",
+        "setup": "Why don't mummies have friends?",
+        "delivery": "Because they're too wrapped up in themselves.",
+        "id": 19,
+        "rating": 0
+    },
+    {
+        "category": "Spooky",
+        "setup": "Know why skeletons are so calm?",
+        "delivery": "Because nothing gets under their skin.",
+        "id": 20,
+        "rating": 0
+    },
+    {
+        "category": "Programming",
+        "setup": "What returns when you try to pass parseInt(grandma)?",
+        "delivery": "NaN.",
+        "id": 21,
+        "rating": 0
+    }
+]
+}

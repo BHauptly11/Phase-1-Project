@@ -1,0 +1,39 @@
+html {
+    background-color: black; color: hotpink; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+#header {
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+#joke-selection {
+    text-align: right;
+    font-size: 3em;
+}
+
+#joke-selection span {
+    float: right;
+    clear: right;
+    padding: 0.5em;
+    margin: 0em;
+}
+
+#joke-info {
+    text-align: center;
+    vertical-align: center;
+    border: solid;
+    margin-right: 250px;
+    margin-left: 100px;
+    height: 80%;
+    font-size: 2em;
+}
+
+input[type="submit"] {
+    background-color: hotpink;
+}
+
+button {
+    background-color: hotpink;
+}
